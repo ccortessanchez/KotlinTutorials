@@ -11,6 +11,6 @@
 * Delete on swipe
 
 
-### Adaptative UI
+### Adaptive UI
 
 #### Source: https://www.raywenderlich.com/185396/adaptive-ui-tutorial-android-kotlin
