@@ -10,7 +10,10 @@
 * Scroll support
 * Delete on swipe
 
-
 ### Adaptive UI
 
 #### Source: https://www.raywenderlich.com/185396/adaptive-ui-tutorial-android-kotlin
+
+### Fragments
+
+#### Source: https://www.raywenderlich.com/169885/android-fragments-tutorial-introduction-2
