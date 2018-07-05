@@ -17,3 +17,7 @@
 ### Fragments
 
 #### Source: https://www.raywenderlich.com/169885/android-fragments-tutorial-introduction-2
+
+### Intents
+
+#### Source: https://www.raywenderlich.com/171071/android-intents-tutorial-kotlin
